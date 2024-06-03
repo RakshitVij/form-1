@@ -1,1 +1,1 @@
-Just coded this beautiful looking neon signup/login form using HTML, CSS & JS. 
+Just made this beautiful looking signup/login form with neon colors using HTML, CSS & JS. 
