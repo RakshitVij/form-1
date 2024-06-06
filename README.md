@@ -1,1 +1,1 @@
-Just made this beautiful looking signup/login form with neon colors using HTML, CSS & JS. 
+This login/signup form, crafted with HTML, CSS, and JavaScript, features a sleek sliding effect to toggle between login and account creation views. The interactive design incorporates hover effects to enhance user experience. When users choose to log in or sign up, the form slides up smoothly to reveal the respective fields, providing a dynamic and engaging interface. This form ensures a seamless transition between login and registration, making it intuitive and user-friendly.
